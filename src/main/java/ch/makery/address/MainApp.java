@@ -20,7 +20,7 @@ import java.io.IOException;
 public class MainApp extends Application {
     private BorderPane rootLayout;
     private Stage primaryStage;
-    // ... ПОСЛЕ ДРУГИХ ПЕРЕМЕННЫХ ...
+    // ... ПОСЛЕ ДРУГИХ ПЕРЕМЕННЫХ ..
 
     /**
      * Данные, в виде наблюдаемого списка адресатов.

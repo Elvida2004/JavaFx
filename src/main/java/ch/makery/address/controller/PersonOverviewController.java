@@ -121,7 +121,7 @@ public class PersonOverviewController {
     /**
      * Вызывается, когда пользователь кликает по кнопке New...
      * Открывает диалоговое окно с дополнительной информацией нового адресата.
-     *///
+     */
     @FXML
     private void handleNewPerson() {
         Person tempPerson = new Person();
