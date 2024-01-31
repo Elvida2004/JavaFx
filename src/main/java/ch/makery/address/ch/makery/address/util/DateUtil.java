@@ -22,7 +22,7 @@ public class DateUtil {
      * @param date - дата, которая будет возвращена в виде строки
      * @return отформатированную строку
      */
-    public static String format(LocalDate date) {
+    public static String format(LocalDate date) {//
         if (date == null) {
             return null;
         }

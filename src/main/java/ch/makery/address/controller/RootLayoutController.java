@@ -1,4 +1,4 @@
 package ch.makery.address.controller;
 
-public class RootLayoutController {
+public class RootLayoutController {//
 }

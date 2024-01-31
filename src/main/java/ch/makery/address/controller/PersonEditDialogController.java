@@ -91,7 +91,7 @@ public class PersonEditDialogController {
             dialogStage.close();
         }
     }
-
+//
     /**
      * Вызывается, когда пользователь кликнул по кнопке Cancel.
      */
